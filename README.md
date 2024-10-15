@@ -5,8 +5,7 @@
 
 - 🌱 I’m continously learning **Laravel and Nextjs**
 
-- 👨‍💻 All of my projects are available at [my repository](my repository)
-
+- 👨‍💻 All of my projects are available at my <a href="https://github.com/RahmatPrakoso276?tab=repositories">**repo**</a>
 - 📝 I published articles on [https://doi.org/10.23887/janapati.v13i2.75643](https://doi.org/10.23887/janapati.v13i2.75643)
 
 - 📫 How to reach me **prakosorahmat24@gmail.com**
