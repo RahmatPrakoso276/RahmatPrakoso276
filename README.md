@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm Rahmat Prakoso</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
+
+
+<div align="left">
+  <a href="https://jrhero-web.vercel.app">
+    <img alt="MyProfile" title="See my profile"
+      src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</div>
+
+### My Contact
+
+<p align="left">
+  <a href="https://github.com/Jrhero14?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub"
+      src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Jrhero14" /></a>
+  <a href="https://github.com/RahmatPrakoso276">
+    <img alt="followers" title="Follow me on Github"
+      src="https://img.shields.io/github/followers/Jrhero14?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" /></a>
+  <a href="https://www.linkedin.com/in/rahmat-prakoso/">
+    <img alt="Linkedin" title="my Linkedin"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatprakoso276&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatprakoso276" /> </p>
 
 - 🌱 I’m continously learning **Laravel and Nextjs**
@@ -31,3 +54,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatprakoso276&" alt="rahmatprakoso276" style="width: 100%;" />
 </p>
+
