@@ -101,7 +101,7 @@
   <br>
 
 <img alt="Snake" title="Snake"
-  src="https://raw.githubusercontent.com/RahmatPrakoso276/RahmatPrakoso276/b558d13be5f6c057f221f1ffd2ec421f746c4f23/github-contribution-grid-snake-dark.svg" />
+  src="https://raw.githubusercontent.com/RahmatPrakoso276/RahmatPrakoso276/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
