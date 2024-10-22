@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 
-- 🌱 I’m continously learning **Laravel and Nextjs**
+- 🌱 I’m continously learning **Laravel and React**
 
 - 👨‍💻 All of my projects are available at my <a href="https://github.com/RahmatPrakoso276?tab=repositories">**repo**</a>
 - 📝 I published articles on [JANAPATI](https://doi.org/10.23887/janapati.v13i2.75643)
