@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahmat+Prakoso!;" />
 </h1>
 
-<h3 align="center">A passionate Fullstack Developer from Indonesian</h3>
+<h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 
 - 🌱 I’m continously learning **Laravel and React**
 
