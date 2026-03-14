@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my <a href="https://github.com/RahmatPrakoso276?tab=repositories">**repo**</a>
 - 📝 I published articles on [JANAPATI](https://doi.org/10.23887/janapati.v13i2.75643)
-- 📄 See my CV [here](https://drive.google.com/file/d/1z-hmDfWoArn7liayXELxlbzA215_h-Ks/view?usp=sharing)
+- 📄 See my CV [here](https://drive.google.com/file/d/1H-mA59AgIaiFedFgP_ZqnAKO0nOpUL4K/view?usp=sharing)
 - ⚡ Fun fact **Saya suka nasi goreng Prambos karena terlalu enakkk!!!**
 
  
